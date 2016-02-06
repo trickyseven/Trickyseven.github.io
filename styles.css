@@ -1,6 +1,5 @@
 body {
   font-family: "Verdana", sans-serif;
-  width: 960px;
   margin: 10px auto;
 }
 /*img {
@@ -9,18 +8,25 @@ body {
   float: right;*/
 }
 
-/*.header {
+.header {
   background: #e0e0eb;
   padding: 14px;
-  border-radius: 15px;*/
+  border-radius: 15px;
+  margin: 10px auto;
 }
 
-/*h3 {
+h4 {
   border-bottom: solid 4px gray;
-  padding-bottom: 8px;*/
+    margin: 10px auto;
+  /*padding-bottom: 8px;*/
 }
-footer {
+/*.footer {
   background-color: #b3b3cc;
   padding: 10px;
-  border-radius:10px;
+  border-radius:10px;*/
+}
+
+p {
+  display: block;
+  margin-top: 5px;
 }
